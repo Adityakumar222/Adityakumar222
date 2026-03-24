@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Aditya Kumar</h1>
+<h1 align="center"> Aditya Kumar</h1>
 <h3 align="center">ML Engineer | Building Production-Ready APIs & Data Systems</h3>
 
 ---
@@ -39,8 +39,6 @@
 - Tech: Power BI, DAX, Excel  
 
 ---
-
-## 🧠 Tech Stack
 
 ## 🧠 Tech Stack
 
